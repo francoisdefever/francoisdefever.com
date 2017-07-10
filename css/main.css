@@ -72,10 +72,9 @@
        font-size: 25px;
    }
 
-   ul {
-   }
 
-   ul li {
+
+   footer ul li {
        width: 19%;
    }
 
@@ -87,7 +86,7 @@
 
 
    footer {
-       margin-top: 0px;
+       /*margin-top: 0px;*/
        margin-bottom: 0px;
        background-color: #004365;
        text-align: center;
