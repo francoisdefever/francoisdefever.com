@@ -10,15 +10,41 @@
        font-family: 'Oswald', sans-serif;
    }
 
+   nav{
+       background-color: #004365;
+       color: white;
+       height: 30px;
+   }
+   nav .btn {
+       color: white;
+       border-color: #02A5DE;
+   }
+
+   nav .btn .icon-bar {
+       border-color: #02A5DE;
+       background-color: white;
+   }
+
    .topnav {
        background-color: #004365;
+       color: white;
    }
+
+   .topnav .brand:hover {
+       color: white;
+       text-decoration: none;
+   }
+
    .topnav a {
        color: white;
    }
    .topnav a:hover {
        color: #02A5DE;
+       border-top: 5px solid #02A5DE;
+       width: 100%;
    }
+
+
 
    #myCarousel .carousel-inner {
        width: 100%;
