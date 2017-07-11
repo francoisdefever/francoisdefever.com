@@ -10,14 +10,21 @@
        font-family: 'Oswald', sans-serif;
    }
 
+   .title {
+       background-color: #004365;
+       padding-top: 30px;
+   }
+
+   .titlehead {
+       text-align: center;
+   }
+
    nav{
        background-color: #004365;
        color: white;
-       height: 30px;
    }
    nav .btn {
        color: white;
-       border-color: #02A5DE;
    }
 
    nav .btn .icon-bar {
@@ -28,6 +35,9 @@
    .topnav {
        background-color: #004365;
        color: white;
+       padding-left: 25%;
+       border-radius: 0px;
+       font-size: 20px;
    }
 
    .topnav .brand:hover {
@@ -40,7 +50,6 @@
    }
    .topnav a:hover {
        color: #02A5DE;
-       border-top: 5px solid #02A5DE;
        width: 100%;
    }
 
