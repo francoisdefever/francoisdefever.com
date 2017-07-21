@@ -52,6 +52,12 @@
        color: #02A5DE;
        width: 100%;
    }
+   /*.topnav .navbar .nav .navbar-nav {
+       color: green;
+   }*/
+   ul .nav .navbar-nav li a{
+       color: green;
+   }
 
 
 
